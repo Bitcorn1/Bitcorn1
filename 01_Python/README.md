@@ -48,7 +48,7 @@ else:
 
 ## Image
 
-![파이썬](README-images/logo-python.png)
+
 
 <br>
 
